@@ -1,0 +1,5719 @@
+{
+    "timestamp": "2026-03-15 10:06:44",
+    "entries": [
+        {
+            "keyword": "chopping",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "kitchen",
+                    "score": 85060765
+                },
+                {
+                    "word": "cooking",
+                    "score": 81585650
+                },
+                {
+                    "word": "dish",
+                    "score": 58578299
+                },
+                {
+                    "word": "ingredients",
+                    "score": 55309071
+                },
+                {
+                    "word": "vegetables",
+                    "score": 52938667
+                },
+                {
+                    "word": "knife",
+                    "score": 52878551
+                },
+                {
+                    "word": "furniture",
+                    "score": 52685584
+                },
+                {
+                    "word": "vegetable",
+                    "score": 52571586
+                },
+                {
+                    "word": "tasks",
+                    "score": 51902100
+                },
+                {
+                    "word": "knives",
+                    "score": 49590965
+                }
+            ]
+        },
+        {
+            "keyword": "chopping",
+            "relationType": "Synonyms",
+            "words": []
+        },
+        {
+            "keyword": "chopping",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "fabrication",
+                    "score": 79839714
+                },
+                {
+                    "word": "butchering",
+                    "score": 79758212
+                },
+                {
+                    "word": "butchery",
+                    "score": 79395192
+                },
+                {
+                    "word": "cutting",
+                    "score": 72388758
+                },
+                {
+                    "word": "sliced",
+                    "score": 64860108
+                },
+                {
+                    "word": "cut",
+                    "score": 63357232
+                },
+                {
+                    "word": "slash",
+                    "score": 62577875
+                },
+                {
+                    "word": "slashing",
+                    "score": 61671602
+                },
+                {
+                    "word": "shredded",
+                    "score": 59758317
+                },
+                {
+                    "word": "chopping block",
+                    "score": 19953407
+                }
+            ]
+        },
+        {
+            "keyword": "chopping",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "mechanical",
+                    "score": 45411799
+                },
+                {
+                    "word": "word",
+                    "score": 43102924
+                },
+                {
+                    "word": "chopper",
+                    "score": 40500057
+                },
+                {
+                    "word": "logic",
+                    "score": 40095842
+                },
+                {
+                    "word": "wood",
+                    "score": 39703257
+                },
+                {
+                    "word": "hand",
+                    "score": 39618496
+                },
+                {
+                    "word": "ice",
+                    "score": 39337689
+                },
+                {
+                    "word": "experimental",
+                    "score": 38206312
+                },
+                {
+                    "word": "electronic",
+                    "score": 37115628
+                },
+                {
+                    "word": "simple",
+                    "score": 37100008
+                }
+            ]
+        },
+        {
+            "keyword": "cranberries",
+            "relationType": "Triggers",
+            "words": []
+        },
+        {
+            "keyword": "cranberries",
+            "relationType": "Synonyms",
+            "words": []
+        },
+        {
+            "keyword": "cranberries",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "racks",
+                    "score": 39467935
+                },
+                {
+                    "word": "berries",
+                    "score": 35339590
+                },
+                {
+                    "word": "bays",
+                    "score": 32255331
+                },
+                {
+                    "word": "blueberries",
+                    "score": 30934165
+                },
+                {
+                    "word": "raspberries",
+                    "score": 30186152
+                },
+                {
+                    "word": "bush",
+                    "score": 22474421
+                },
+                {
+                    "word": "currants",
+                    "score": 21714121
+                },
+                {
+                    "word": "mulberries",
+                    "score": 21400556
+                },
+                {
+                    "word": "embayments",
+                    "score": 5468625
+                },
+                {
+                    "word": "cranberry juice",
+                    "score": 31420
+                }
+            ]
+        },
+        {
+            "keyword": "cranberries",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "cooked",
+                    "score": 50879043
+                },
+                {
+                    "word": "stew",
+                    "score": 46366859
+                },
+                {
+                    "word": "uncooked",
+                    "score": 44718349
+                },
+                {
+                    "word": "delicious",
+                    "score": 39322833
+                },
+                {
+                    "word": "whole",
+                    "score": 36973179
+                },
+                {
+                    "word": "lemon",
+                    "score": 36965187
+                },
+                {
+                    "word": "sort",
+                    "score": 35423374
+                },
+                {
+                    "word": "raw",
+                    "score": 35088109
+                },
+                {
+                    "word": "canned",
+                    "score": 34985977
+                },
+                {
+                    "word": "tree",
+                    "score": 34896565
+                }
+            ]
+        },
+        {
+            "keyword": "portioning",
+            "relationType": "Triggers",
+            "words": []
+        },
+        {
+            "keyword": "portioning",
+            "relationType": "Synonyms",
+            "words": []
+        },
+        {
+            "keyword": "portioning",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "component",
+                    "score": 53221279
+                },
+                {
+                    "word": "serving",
+                    "score": 46045996
+                },
+                {
+                    "word": "destiny",
+                    "score": 45746991
+                },
+                {
+                    "word": "lot",
+                    "score": 45117632
+                },
+                {
+                    "word": "fate",
+                    "score": 40492626
+                },
+                {
+                    "word": "luck",
+                    "score": 36758781
+                },
+                {
+                    "word": "share",
+                    "score": 33291500
+                },
+                {
+                    "word": "part",
+                    "score": 31169928
+                },
+                {
+                    "word": "allot",
+                    "score": 29229621
+                },
+                {
+                    "word": "assign",
+                    "score": 27603586
+                }
+            ]
+        },
+        {
+            "keyword": "portioning",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "proper",
+                    "score": 35106346
+                },
+                {
+                    "word": "precise",
+                    "score": 29078697
+                },
+                {
+                    "word": "over",
+                    "score": 17862370
+                }
+            ]
+        },
+        {
+            "keyword": "sugar",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "foods",
+                    "score": 55484093
+                },
+                {
+                    "word": "ingredients",
+                    "score": 55308981
+                },
+                {
+                    "word": "vegetables",
+                    "score": 52938577
+                },
+                {
+                    "word": "factory",
+                    "score": 48497448
+                },
+                {
+                    "word": "meat",
+                    "score": 48290333
+                },
+                {
+                    "word": "rice",
+                    "score": 48204276
+                },
+                {
+                    "word": "taste",
+                    "score": 47060125
+                },
+                {
+                    "word": "coffee",
+                    "score": 46901822
+                },
+                {
+                    "word": "sauce",
+                    "score": 46395038
+                },
+                {
+                    "word": "chocolate",
+                    "score": 46161642
+                }
+            ]
+        },
+        {
+            "keyword": "sugar",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "carbohydrate",
+                    "score": 37089333
+                },
+                {
+                    "word": "saccharide",
+                    "score": 4021
+                },
+                {
+                    "word": "refined sugar",
+                    "score": 12
+                },
+                {
+                    "word": "saccarify",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "keyword": "sugar",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "candy",
+                    "score": 70113572
+                },
+                {
+                    "word": "beet",
+                    "score": 67799407
+                },
+                {
+                    "word": "carbohydrate",
+                    "score": 67041398
+                },
+                {
+                    "word": "sweetness",
+                    "score": 64740402
+                },
+                {
+                    "word": "sweet",
+                    "score": 64661860
+                },
+                {
+                    "word": "sugarcane",
+                    "score": 63039980
+                },
+                {
+                    "word": "sweetener",
+                    "score": 61360270
+                },
+                {
+                    "word": "sweeten",
+                    "score": 49438233
+                },
+                {
+                    "word": "saccharide",
+                    "score": 29949579
+                },
+                {
+                    "word": "refined sugar",
+                    "score": 20049524
+                }
+            ]
+        },
+        {
+            "keyword": "sugar",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "liquid",
+                    "score": 41211590
+                },
+                {
+                    "word": "fat",
+                    "score": 40944834
+                },
+                {
+                    "word": "starch",
+                    "score": 39788969
+                },
+                {
+                    "word": "dietary",
+                    "score": 39354580
+                },
+                {
+                    "word": "grape",
+                    "score": 37942815
+                },
+                {
+                    "word": "beet",
+                    "score": 37844322
+                },
+                {
+                    "word": "simple",
+                    "score": 37100008
+                },
+                {
+                    "word": "lemon",
+                    "score": 36965187
+                },
+                {
+                    "word": "diabetic",
+                    "score": 36953526
+                },
+                {
+                    "word": "mix",
+                    "score": 36044359
+                }
+            ]
+        },
+        {
+            "keyword": "draining",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "farming",
+                    "score": 49543891
+                },
+                {
+                    "word": "agriculture",
+                    "score": 41450602
+                },
+                {
+                    "word": "agricultural",
+                    "score": 41236340
+                },
+                {
+                    "word": "portion",
+                    "score": 40988571
+                },
+                {
+                    "word": "shelf",
+                    "score": 40949639
+                },
+                {
+                    "word": "sea",
+                    "score": 40249142
+                },
+                {
+                    "word": "habitat",
+                    "score": 39452753
+                },
+                {
+                    "word": "ice",
+                    "score": 39338314
+                },
+                {
+                    "word": "ocean",
+                    "score": 39091591
+                },
+                {
+                    "word": "soil",
+                    "score": 38777176
+                }
+            ]
+        },
+        {
+            "keyword": "draining",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "killing",
+                    "score": 35822972
+                },
+                {
+                    "word": "exhausting",
+                    "score": 26878328
+                },
+                {
+                    "word": "debilitating",
+                    "score": 20705477
+                }
+            ]
+        },
+        {
+            "keyword": "draining",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "drying",
+                    "score": 79386670
+                },
+                {
+                    "word": "pump",
+                    "score": 76987866
+                },
+                {
+                    "word": "killing",
+                    "score": 75739385
+                },
+                {
+                    "word": "flushing",
+                    "score": 73011693
+                },
+                {
+                    "word": "exhausting",
+                    "score": 66794741
+                },
+                {
+                    "word": "dewatering",
+                    "score": 62495271
+                },
+                {
+                    "word": "flowing",
+                    "score": 61126053
+                },
+                {
+                    "word": "debilitating",
+                    "score": 60621890
+                },
+                {
+                    "word": "channelling",
+                    "score": 59614125
+                },
+                {
+                    "word": "desiccation",
+                    "score": 54664546
+                }
+            ]
+        },
+        {
+            "keyword": "draining",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "self",
+                    "score": 39045282
+                },
+                {
+                    "word": "practical",
+                    "score": 38674885
+                },
+                {
+                    "word": "perfect",
+                    "score": 30778196
+                },
+                {
+                    "word": "tumor",
+                    "score": 29509701
+                },
+                {
+                    "word": "free",
+                    "score": 27566780
+                },
+                {
+                    "word": "under",
+                    "score": 25658775
+                },
+                {
+                    "word": "slow",
+                    "score": 25442488
+                },
+                {
+                    "word": "thorough",
+                    "score": 25122187
+                }
+            ]
+        },
+        {
+            "keyword": "canned",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "cooking",
+                    "score": 81585582
+                },
+                {
+                    "word": "dish",
+                    "score": 58578231
+                },
+                {
+                    "word": "meals",
+                    "score": 56779098
+                },
+                {
+                    "word": "soup",
+                    "score": 55882223
+                },
+                {
+                    "word": "foods",
+                    "score": 55484115
+                },
+                {
+                    "word": "ingredients",
+                    "score": 55309003
+                },
+                {
+                    "word": "meal",
+                    "score": 54742765
+                },
+                {
+                    "word": "chicken",
+                    "score": 53616015
+                },
+                {
+                    "word": "vegetables",
+                    "score": 52938599
+                },
+                {
+                    "word": "vegetable",
+                    "score": 52571518
+                }
+            ]
+        },
+        {
+            "keyword": "canned",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "tinned",
+                    "score": 31708727
+                },
+                {
+                    "word": "preserved",
+                    "score": 20675582
+                },
+                {
+                    "word": "transcribed",
+                    "score": 19660738
+                },
+                {
+                    "word": "recorded",
+                    "score": 19283045
+                }
+            ]
+        },
+        {
+            "keyword": "canned",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "box",
+                    "score": 74641091
+                },
+                {
+                    "word": "bottled",
+                    "score": 72532093
+                },
+                {
+                    "word": "tinned",
+                    "score": 70168343
+                },
+                {
+                    "word": "frozen",
+                    "score": 66367564
+                },
+                {
+                    "word": "boxed",
+                    "score": 65241711
+                },
+                {
+                    "word": "preserves",
+                    "score": 62920736
+                },
+                {
+                    "word": "preserved",
+                    "score": 59135198
+                },
+                {
+                    "word": "transcribed",
+                    "score": 58120354
+                },
+                {
+                    "word": "recorded",
+                    "score": 57742661
+                },
+                {
+                    "word": "store-bought",
+                    "score": 28358130
+                }
+            ]
+        },
+        {
+            "keyword": "canned",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "cooked",
+                    "score": 50879043
+                },
+                {
+                    "word": "home",
+                    "score": 48645528
+                },
+                {
+                    "word": "japanese",
+                    "score": 41123090
+                },
+                {
+                    "word": "delicious",
+                    "score": 39322833
+                },
+                {
+                    "word": "quality",
+                    "score": 39296126
+                },
+                {
+                    "word": "commercial",
+                    "score": 39152755
+                },
+                {
+                    "word": "standard",
+                    "score": 37245433
+                },
+                {
+                    "word": "cold",
+                    "score": 36299140
+                },
+                {
+                    "word": "prepared",
+                    "score": 35734024
+                },
+                {
+                    "word": "sound",
+                    "score": 34744261
+                }
+            ]
+        },
+        {
+            "keyword": "pineapple",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "dishes",
+                    "score": 66548855
+                },
+                {
+                    "word": "foods",
+                    "score": 55484290
+                },
+                {
+                    "word": "ingredients",
+                    "score": 55309178
+                },
+                {
+                    "word": "vegetables",
+                    "score": 52938774
+                },
+                {
+                    "word": "farming",
+                    "score": 49544144
+                },
+                {
+                    "word": "meat",
+                    "score": 48290530
+                },
+                {
+                    "word": "rice",
+                    "score": 48204473
+                },
+                {
+                    "word": "chili",
+                    "score": 47999741
+                },
+                {
+                    "word": "dance",
+                    "score": 47857105
+                },
+                {
+                    "word": "salad",
+                    "score": 47652495
+                }
+            ]
+        },
+        {
+            "keyword": "pineapple",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "ananas",
+                    "score": 4029
+                },
+                {
+                    "word": "ananas comosus",
+                    "score": 13
+                },
+                {
+                    "word": "pineapple plant",
+                    "score": 9
+                }
+            ]
+        },
+        {
+            "keyword": "pineapple",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "grenade",
+                    "score": 73324477
+                },
+                {
+                    "word": "fruit",
+                    "score": 69185876
+                },
+                {
+                    "word": "treat",
+                    "score": 57116339
+                },
+                {
+                    "word": "piña",
+                    "score": 49168444
+                },
+                {
+                    "word": "sugarloaf",
+                    "score": 41522378
+                },
+                {
+                    "word": "ananas",
+                    "score": 30048161
+                },
+                {
+                    "word": "ananas comosus",
+                    "score": 20048850
+                },
+                {
+                    "word": "pineapple plant",
+                    "score": 20048850
+                },
+                {
+                    "word": "abacaxi",
+                    "score": 10049534
+                },
+                {
+                    "word": "pinery",
+                    "score": 10049531
+                }
+            ]
+        },
+        {
+            "keyword": "pineapple",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "cooked",
+                    "score": 50879043
+                },
+                {
+                    "word": "uncooked",
+                    "score": 44718349
+                },
+                {
+                    "word": "wooden",
+                    "score": 43111940
+                },
+                {
+                    "word": "miniature",
+                    "score": 40316814
+                },
+                {
+                    "word": "delicious",
+                    "score": 39322833
+                },
+                {
+                    "word": "strawberry",
+                    "score": 38335895
+                },
+                {
+                    "word": "giant",
+                    "score": 38039625
+                },
+                {
+                    "word": "whole",
+                    "score": 36973179
+                },
+                {
+                    "word": "lemon",
+                    "score": 36965187
+                },
+                {
+                    "word": "mix",
+                    "score": 36044359
+                }
+            ]
+        },
+        {
+            "keyword": "combining",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "techniques",
+                    "score": 46395965
+                },
+                {
+                    "word": "animation",
+                    "score": 45695487
+                },
+                {
+                    "word": "styles",
+                    "score": 41557399
+                },
+                {
+                    "word": "sounds",
+                    "score": 39854100
+                },
+                {
+                    "word": "traditional",
+                    "score": 38470098
+                },
+                {
+                    "word": "punk",
+                    "score": 38085062
+                },
+                {
+                    "word": "footage",
+                    "score": 37687202
+                },
+                {
+                    "word": "traditions",
+                    "score": 37579006
+                },
+                {
+                    "word": "aspects",
+                    "score": 37366709
+                },
+                {
+                    "word": "elements",
+                    "score": 37316305
+                }
+            ]
+        },
+        {
+            "keyword": "combining",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "combination",
+                    "score": 33070031
+                },
+                {
+                    "word": "agglutinative",
+                    "score": 27785440
+                },
+                {
+                    "word": "combinatory",
+                    "score": 25437467
+                },
+                {
+                    "word": "combine",
+                    "score": 23381857
+                },
+                {
+                    "word": "combinational",
+                    "score": 23267463
+                },
+                {
+                    "word": "compounding",
+                    "score": 22762769
+                },
+                {
+                    "word": "polysynthetic",
+                    "score": 18308294
+                },
+                {
+                    "word": "combinable",
+                    "score": 1023
+                }
+            ]
+        },
+        {
+            "keyword": "combining",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "combination",
+                    "score": 73081854
+                },
+                {
+                    "word": "synthetic",
+                    "score": 70886038
+                },
+                {
+                    "word": "agglutinative",
+                    "score": 67797263
+                },
+                {
+                    "word": "combinatory",
+                    "score": 65449290
+                },
+                {
+                    "word": "combinational",
+                    "score": 63279286
+                },
+                {
+                    "word": "compounding",
+                    "score": 62774592
+                },
+                {
+                    "word": "merge",
+                    "score": 62602663
+                },
+                {
+                    "word": "polysynthetic",
+                    "score": 58320117
+                },
+                {
+                    "word": "merged",
+                    "score": 56298045
+                },
+                {
+                    "word": "combinative",
+                    "score": 40020669
+                }
+            ]
+        },
+        {
+            "keyword": "combining",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "food",
+                    "score": 43521062
+                },
+                {
+                    "word": "dioxide",
+                    "score": 33933111
+                },
+                {
+                    "word": "antibody",
+                    "score": 33921492
+                },
+                {
+                    "word": "monoxide",
+                    "score": 32360535
+                },
+                {
+                    "word": "conscious",
+                    "score": 30624162
+                },
+                {
+                    "word": "financial",
+                    "score": 30479284
+                },
+                {
+                    "word": "transformational",
+                    "score": 28468651
+                },
+                {
+                    "word": "constant",
+                    "score": 25866747
+                },
+                {
+                    "word": "sentence",
+                    "score": 23468105
+                },
+                {
+                    "word": "clause",
+                    "score": 22921299
+                }
+            ]
+        },
+        {
+            "keyword": "resting",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "sleeping",
+                    "score": 44245105
+                },
+                {
+                    "word": "roof",
+                    "score": 43989924
+                },
+                {
+                    "word": "bed",
+                    "score": 43533243
+                },
+                {
+                    "word": "legs",
+                    "score": 42159662
+                },
+                {
+                    "word": "feeding",
+                    "score": 41689822
+                },
+                {
+                    "word": "brick",
+                    "score": 41593219
+                },
+                {
+                    "word": "eggs",
+                    "score": 41355520
+                },
+                {
+                    "word": "cells",
+                    "score": 40894257
+                },
+                {
+                    "word": "cell",
+                    "score": 39902242
+                },
+                {
+                    "word": "sleep",
+                    "score": 38716443
+                }
+            ]
+        },
+        {
+            "keyword": "resting",
+            "relationType": "Synonyms",
+            "words": []
+        },
+        {
+            "keyword": "resting",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "sleep",
+                    "score": 78747262
+                },
+                {
+                    "word": "relaxation",
+                    "score": 70566430
+                },
+                {
+                    "word": "residual",
+                    "score": 68924931
+                },
+                {
+                    "word": "relief",
+                    "score": 67550715
+                },
+                {
+                    "word": "ease",
+                    "score": 66250006
+                },
+                {
+                    "word": "repose",
+                    "score": 64629156
+                },
+                {
+                    "word": "lie",
+                    "score": 64444220
+                },
+                {
+                    "word": "respite",
+                    "score": 63718825
+                },
+                {
+                    "word": "quietus",
+                    "score": 51690661
+                },
+                {
+                    "word": "take a breather",
+                    "score": 40016076
+                }
+            ]
+        },
+        {
+            "keyword": "resting",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "surface",
+                    "score": 39283778
+                },
+                {
+                    "word": "final",
+                    "score": 33251067
+                },
+                {
+                    "word": "afternoon",
+                    "score": 32710923
+                },
+                {
+                    "word": "cardiac",
+                    "score": 27146564
+                },
+                {
+                    "word": "such",
+                    "score": 26666795
+                },
+                {
+                    "word": "states",
+                    "score": 4369923
+                },
+                {
+                    "word": "nopah",
+                    "score": 995
+                }
+            ]
+        },
+        {
+            "keyword": "cranberry",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "foods",
+                    "score": 55484220
+                },
+                {
+                    "word": "ingredients",
+                    "score": 55309108
+                },
+                {
+                    "word": "vegetables",
+                    "score": 52938704
+                },
+                {
+                    "word": "recipe",
+                    "score": 52691942
+                },
+                {
+                    "word": "farming",
+                    "score": 49544074
+                },
+                {
+                    "word": "pumpkin",
+                    "score": 46694350
+                },
+                {
+                    "word": "sauce",
+                    "score": 46395165
+                },
+                {
+                    "word": "chocolate",
+                    "score": 46161769
+                },
+                {
+                    "word": "beans",
+                    "score": 44933309
+                },
+                {
+                    "word": "pie",
+                    "score": 44890098
+                }
+            ]
+        },
+        {
+            "keyword": "cranberry",
+            "relationType": "Synonyms",
+            "words": []
+        },
+        {
+            "keyword": "cranberry",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "currant",
+                    "score": 53316661
+                },
+                {
+                    "word": "bush",
+                    "score": 52469222
+                },
+                {
+                    "word": "blackcurrant",
+                    "score": 47106830
+                },
+                {
+                    "word": "vaccinium",
+                    "score": 32583309
+                },
+                {
+                    "word": "crowberry",
+                    "score": 20046868
+                },
+                {
+                    "word": "highbush cranberry",
+                    "score": 20046867
+                },
+                {
+                    "word": "mountain cranberry",
+                    "score": 20046866
+                },
+                {
+                    "word": "redberry",
+                    "score": 20046864
+                },
+                {
+                    "word": "red currant",
+                    "score": 20046862
+                },
+                {
+                    "word": "cranberrying",
+                    "score": 20046861
+                }
+            ]
+        },
+        {
+            "keyword": "cranberry",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "drink",
+                    "score": 39806390
+                },
+                {
+                    "word": "commercial",
+                    "score": 39152755
+                },
+                {
+                    "word": "hog",
+                    "score": 37374947
+                },
+                {
+                    "word": "whole",
+                    "score": 36973179
+                },
+                {
+                    "word": "magic",
+                    "score": 36457731
+                },
+                {
+                    "word": "raw",
+                    "score": 35088109
+                },
+                {
+                    "word": "tree",
+                    "score": 34896565
+                },
+                {
+                    "word": "sweet",
+                    "score": 34706775
+                },
+                {
+                    "word": "white",
+                    "score": 34137880
+                },
+                {
+                    "word": "green",
+                    "score": 33945623
+                }
+            ]
+        },
+        {
+            "keyword": "salad",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "kitchen",
+                    "score": 85060847
+                },
+                {
+                    "word": "cooking",
+                    "score": 81585732
+                },
+                {
+                    "word": "dishes",
+                    "score": 66548830
+                },
+                {
+                    "word": "chef",
+                    "score": 63140268
+                },
+                {
+                    "word": "dish",
+                    "score": 58578381
+                },
+                {
+                    "word": "restaurant",
+                    "score": 57891671
+                },
+                {
+                    "word": "recipes",
+                    "score": 57198803
+                },
+                {
+                    "word": "meals",
+                    "score": 56779248
+                },
+                {
+                    "word": "soup",
+                    "score": 55882373
+                },
+                {
+                    "word": "foods",
+                    "score": 55484265
+                }
+            ]
+        },
+        {
+            "keyword": "salad",
+            "relationType": "Synonyms",
+            "words": []
+        },
+        {
+            "keyword": "salad",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "vegetable",
+                    "score": 82597574
+                },
+                {
+                    "word": "plate",
+                    "score": 72236066
+                },
+                {
+                    "word": "bowl",
+                    "score": 71471937
+                },
+                {
+                    "word": "wagon",
+                    "score": 68366449
+                },
+                {
+                    "word": "crap",
+                    "score": 66542890
+                },
+                {
+                    "word": "lettuce",
+                    "score": 65570794
+                },
+                {
+                    "word": "coleslaw",
+                    "score": 64881154
+                },
+                {
+                    "word": "greens",
+                    "score": 57868980
+                },
+                {
+                    "word": "endive",
+                    "score": 54499095
+                },
+                {
+                    "word": "burnet",
+                    "score": 40843883
+                }
+            ]
+        },
+        {
+            "keyword": "salad",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "chicken",
+                    "score": 53615312
+                },
+                {
+                    "word": "vegetable",
+                    "score": 52570815
+                },
+                {
+                    "word": "cooked",
+                    "score": 50879043
+                },
+                {
+                    "word": "octopus",
+                    "score": 48411730
+                },
+                {
+                    "word": "homemade",
+                    "score": 47952218
+                },
+                {
+                    "word": "lobster",
+                    "score": 46168321
+                },
+                {
+                    "word": "cabbage",
+                    "score": 43853491
+                },
+                {
+                    "word": "egg",
+                    "score": 43702493
+                },
+                {
+                    "word": "word",
+                    "score": 43102924
+                },
+                {
+                    "word": "shrimp",
+                    "score": 41701566
+                }
+            ]
+        },
+        {
+            "keyword": "room",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "kitchen",
+                    "score": 85060440
+                },
+                {
+                    "word": "bathroom",
+                    "score": 58673743
+                },
+                {
+                    "word": "dining",
+                    "score": 53529515
+                },
+                {
+                    "word": "furniture",
+                    "score": 52685259
+                },
+                {
+                    "word": "bedroom",
+                    "score": 51947580
+                },
+                {
+                    "word": "lab",
+                    "score": 50161033
+                },
+                {
+                    "word": "rooms",
+                    "score": 49744924
+                },
+                {
+                    "word": "fireplace",
+                    "score": 48950070
+                },
+                {
+                    "word": "apartment",
+                    "score": 48398224
+                },
+                {
+                    "word": "basement",
+                    "score": 46492277
+                }
+            ]
+        },
+        {
+            "keyword": "room",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "way",
+                    "score": 38428723
+                },
+                {
+                    "word": "board",
+                    "score": 32183669
+                },
+                {
+                    "word": "elbow room",
+                    "score": 24
+                }
+            ]
+        },
+        {
+            "keyword": "room",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "house",
+                    "score": 97503010
+                },
+                {
+                    "word": "housing",
+                    "score": 85535782
+                },
+                {
+                    "word": "motel",
+                    "score": 79362291
+                },
+                {
+                    "word": "chamber",
+                    "score": 79210923
+                },
+                {
+                    "word": "way",
+                    "score": 78469336
+                },
+                {
+                    "word": "accommodation",
+                    "score": 75431464
+                },
+                {
+                    "word": "board",
+                    "score": 72224282
+                },
+                {
+                    "word": "salon",
+                    "score": 67561756
+                },
+                {
+                    "word": "sala",
+                    "score": 59731277
+                },
+                {
+                    "word": "elbow room",
+                    "score": 40048672
+                }
+            ]
+        },
+        {
+            "keyword": "room",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "school",
+                    "score": 46916266
+                },
+                {
+                    "word": "dressing",
+                    "score": 46152511
+                },
+                {
+                    "word": "music",
+                    "score": 45165375
+                },
+                {
+                    "word": "bed",
+                    "score": 43532763
+                },
+                {
+                    "word": "floor",
+                    "score": 43262874
+                },
+                {
+                    "word": "own",
+                    "score": 39505158
+                },
+                {
+                    "word": "living",
+                    "score": 39019824
+                },
+                {
+                    "word": "clean",
+                    "score": 37971628
+                },
+                {
+                    "word": "drawing",
+                    "score": 37320209
+                },
+                {
+                    "word": "front",
+                    "score": 36332298
+                }
+            ]
+        },
+        {
+            "keyword": "marshmallows",
+            "relationType": "Triggers",
+            "words": []
+        },
+        {
+            "keyword": "marshmallows",
+            "relationType": "Synonyms",
+            "words": []
+        },
+        {
+            "keyword": "marshmallows",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "candies",
+                    "score": 36019931
+                },
+                {
+                    "word": "lollipops",
+                    "score": 25973652
+                },
+                {
+                    "word": "marsh",
+                    "score": 18418267
+                },
+                {
+                    "word": "marsh mallow",
+                    "score": 31424
+                },
+                {
+                    "word": "marshmallow fluff",
+                    "score": 31423
+                },
+                {
+                    "word": "sugar candy",
+                    "score": 31422
+                },
+                {
+                    "word": "candy corn",
+                    "score": 31420
+                },
+                {
+                    "word": "chocolate candy",
+                    "score": 31418
+                },
+                {
+                    "word": "marsh tit",
+                    "score": 31417
+                },
+                {
+                    "word": "cinnamon stick",
+                    "score": 31416
+                }
+            ]
+        },
+        {
+            "keyword": "marshmallows",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "homemade",
+                    "score": 47952218
+                },
+                {
+                    "word": "roast",
+                    "score": 42342687
+                },
+                {
+                    "word": "fat",
+                    "score": 40944834
+                },
+                {
+                    "word": "miniature",
+                    "score": 40316814
+                },
+                {
+                    "word": "giant",
+                    "score": 38039625
+                },
+                {
+                    "word": "dirty",
+                    "score": 37295357
+                },
+                {
+                    "word": "toast",
+                    "score": 36694701
+                },
+                {
+                    "word": "pink",
+                    "score": 36647459
+                },
+                {
+                    "word": "hot",
+                    "score": 36078221
+                },
+                {
+                    "word": "mini",
+                    "score": 34541886
+                }
+            ]
+        },
+        {
+            "keyword": "whipping",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "egg",
+                    "score": 43703334
+                },
+                {
+                    "word": "bed",
+                    "score": 43533604
+                },
+                {
+                    "word": "sugar",
+                    "score": 43533364
+                },
+                {
+                    "word": "girl",
+                    "score": 43088002
+                },
+                {
+                    "word": "boy",
+                    "score": 42705038
+                },
+                {
+                    "word": "legs",
+                    "score": 42160023
+                },
+                {
+                    "word": "slave",
+                    "score": 41734184
+                },
+                {
+                    "word": "motion",
+                    "score": 40975537
+                },
+                {
+                    "word": "boys",
+                    "score": 40570859
+                },
+                {
+                    "word": "slaves",
+                    "score": 40509854
+                }
+            ]
+        },
+        {
+            "keyword": "whipping",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "slaughter",
+                    "score": 32866611
+                },
+                {
+                    "word": "debacle",
+                    "score": 28907973
+                },
+                {
+                    "word": "beating",
+                    "score": 28635002
+                },
+                {
+                    "word": "spirited",
+                    "score": 26288330
+                },
+                {
+                    "word": "flagellation",
+                    "score": 26062241
+                },
+                {
+                    "word": "drubbing",
+                    "score": 26053281
+                },
+                {
+                    "word": "thrashing",
+                    "score": 25681927
+                },
+                {
+                    "word": "snappy",
+                    "score": 22932421
+                },
+                {
+                    "word": "trouncing",
+                    "score": 21524455
+                },
+                {
+                    "word": "walloping",
+                    "score": 19349367
+                }
+            ]
+        },
+        {
+            "keyword": "whipping",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "slaughter",
+                    "score": 72806003
+                },
+                {
+                    "word": "debacle",
+                    "score": 68847365
+                },
+                {
+                    "word": "beating",
+                    "score": 68574394
+                },
+                {
+                    "word": "flagellation",
+                    "score": 66001633
+                },
+                {
+                    "word": "drubbing",
+                    "score": 65992673
+                },
+                {
+                    "word": "thrashing",
+                    "score": 65621319
+                },
+                {
+                    "word": "snappy",
+                    "score": 62871813
+                },
+                {
+                    "word": "flogging",
+                    "score": 58579511
+                },
+                {
+                    "word": "lashing",
+                    "score": 57020116
+                },
+                {
+                    "word": "whipstitch",
+                    "score": 39945943
+                }
+            ]
+        },
+        {
+            "keyword": "whipping",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "general",
+                    "score": 35801213
+                },
+                {
+                    "word": "good",
+                    "score": 26365883
+                },
+                {
+                    "word": "public",
+                    "score": 25514209
+                },
+                {
+                    "word": "unmerciful",
+                    "score": 21708045
+                },
+                {
+                    "word": "severest",
+                    "score": 11906181
+                }
+            ]
+        },
+        {
+            "keyword": "cream",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "dishes",
+                    "score": 66548625
+                },
+                {
+                    "word": "dish",
+                    "score": 58578176
+                },
+                {
+                    "word": "restaurant",
+                    "score": 57891466
+                },
+                {
+                    "word": "recipes",
+                    "score": 57198598
+                },
+                {
+                    "word": "soup",
+                    "score": 55882168
+                },
+                {
+                    "word": "foods",
+                    "score": 55484060
+                },
+                {
+                    "word": "ingredients",
+                    "score": 55308948
+                },
+                {
+                    "word": "chicken",
+                    "score": 53615960
+                },
+                {
+                    "word": "desserts",
+                    "score": 52719429
+                },
+                {
+                    "word": "recipe",
+                    "score": 52691782
+                }
+            ]
+        },
+        {
+            "keyword": "cream",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "ointment",
+                    "score": 30096967
+                },
+                {
+                    "word": "soupy",
+                    "score": 29451449
+                },
+                {
+                    "word": "pick",
+                    "score": 27438296
+                },
+                {
+                    "word": "creamy",
+                    "score": 26429429
+                },
+                {
+                    "word": "skim",
+                    "score": 15480428
+                },
+                {
+                    "word": "emollient",
+                    "score": 13493518
+                },
+                {
+                    "word": "skim off",
+                    "score": 2014
+                },
+                {
+                    "word": "cream off",
+                    "score": 16
+                }
+            ]
+        },
+        {
+            "keyword": "cream",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "soup",
+                    "score": 95930331
+                },
+                {
+                    "word": "butter",
+                    "score": 80306126
+                },
+                {
+                    "word": "ointment",
+                    "score": 70109733
+                },
+                {
+                    "word": "soupy",
+                    "score": 69464215
+                },
+                {
+                    "word": "pick",
+                    "score": 67451062
+                },
+                {
+                    "word": "thick",
+                    "score": 66535323
+                },
+                {
+                    "word": "skim",
+                    "score": 55493194
+                },
+                {
+                    "word": "emollient",
+                    "score": 53506284
+                },
+                {
+                    "word": "cream off",
+                    "score": 40049812
+                },
+                {
+                    "word": "skim off",
+                    "score": 39908710
+                }
+            ]
+        },
+        {
+            "keyword": "cream",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "homemade",
+                    "score": 47952218
+                },
+                {
+                    "word": "fat",
+                    "score": 40944834
+                },
+                {
+                    "word": "ice",
+                    "score": 39337689
+                },
+                {
+                    "word": "delicious",
+                    "score": 39322833
+                },
+                {
+                    "word": "commercial",
+                    "score": 39152755
+                },
+                {
+                    "word": "strawberry",
+                    "score": 38335895
+                },
+                {
+                    "word": "dental",
+                    "score": 37370846
+                },
+                {
+                    "word": "italian",
+                    "score": 36990558
+                },
+                {
+                    "word": "lemon",
+                    "score": 36965187
+                },
+                {
+                    "word": "pink",
+                    "score": 36647459
+                }
+            ]
+        },
+        {
+            "keyword": "get",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "job",
+                    "score": 43969297
+                },
+                {
+                    "word": "ready",
+                    "score": 35545331
+                },
+                {
+                    "word": "wants",
+                    "score": 34812126
+                },
+                {
+                    "word": "trouble",
+                    "score": 33859383
+                },
+                {
+                    "word": "chance",
+                    "score": 32318782
+                },
+                {
+                    "word": "revenge",
+                    "score": 32193806
+                },
+                {
+                    "word": "gets",
+                    "score": 28133059
+                },
+                {
+                    "word": "your",
+                    "score": 27303760
+                },
+                {
+                    "word": "know",
+                    "score": 25204225
+                },
+                {
+                    "word": "closer",
+                    "score": 20609737
+                }
+            ]
+        },
+        {
+            "keyword": "get",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "mother",
+                    "score": 45959153
+                },
+                {
+                    "word": "father",
+                    "score": 42946449
+                },
+                {
+                    "word": "can",
+                    "score": 36064571
+                },
+                {
+                    "word": "puzzle",
+                    "score": 35149784
+                },
+                {
+                    "word": "gravel",
+                    "score": 34502704
+                },
+                {
+                    "word": "start",
+                    "score": 34067681
+                },
+                {
+                    "word": "aim",
+                    "score": 32887899
+                },
+                {
+                    "word": "pay off",
+                    "score": 31009923
+                },
+                {
+                    "word": "fix",
+                    "score": 30020796
+                },
+                {
+                    "word": "contract",
+                    "score": 29482946
+                }
+            ]
+        },
+        {
+            "keyword": "get",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "start",
+                    "score": 74048440
+                },
+                {
+                    "word": "begin",
+                    "score": 68099191
+                },
+                {
+                    "word": "arrive",
+                    "score": 65031007
+                },
+                {
+                    "word": "commence",
+                    "score": 63058706
+                },
+                {
+                    "word": "become",
+                    "score": 62614648
+                },
+                {
+                    "word": "bring",
+                    "score": 59314702
+                },
+                {
+                    "word": "acquire",
+                    "score": 56190794
+                },
+                {
+                    "word": "obtain",
+                    "score": 55587287
+                },
+                {
+                    "word": "bring forth",
+                    "score": 40045171
+                },
+                {
+                    "word": "set about",
+                    "score": 40044982
+                }
+            ]
+        },
+        {
+            "keyword": "get",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "elderly",
+                    "score": 41987447
+                },
+                {
+                    "word": "weekly",
+                    "score": 39249045
+                },
+                {
+                    "word": "self",
+                    "score": 39045282
+                },
+                {
+                    "word": "simple",
+                    "score": 37100008
+                },
+                {
+                    "word": "cold",
+                    "score": 36299140
+                },
+                {
+                    "word": "general",
+                    "score": 35801213
+                },
+                {
+                    "word": "dead",
+                    "score": 34212711
+                },
+                {
+                    "word": "young",
+                    "score": 33178191
+                },
+                {
+                    "word": "latter",
+                    "score": 32986461
+                },
+                {
+                    "word": "sick",
+                    "score": 32221333
+                }
+            ]
+        },
+        {
+            "keyword": "walnuts",
+            "relationType": "Triggers",
+            "words": []
+        },
+        {
+            "keyword": "walnuts",
+            "relationType": "Synonyms",
+            "words": []
+        },
+        {
+            "keyword": "walnuts",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "balls",
+                    "score": 41753972
+                },
+                {
+                    "word": "hulls",
+                    "score": 37278140
+                },
+                {
+                    "word": "flat",
+                    "score": 32472308
+                },
+                {
+                    "word": "almonds",
+                    "score": 31606203
+                },
+                {
+                    "word": "kernel",
+                    "score": 29081247
+                },
+                {
+                    "word": "coke",
+                    "score": 27344804
+                },
+                {
+                    "word": "hull",
+                    "score": 26194360
+                },
+                {
+                    "word": "eye",
+                    "score": 21178752
+                },
+                {
+                    "word": "walnut tree",
+                    "score": 31427
+                },
+                {
+                    "word": "inshell",
+                    "score": 31426
+                }
+            ]
+        },
+        {
+            "keyword": "walnuts",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "japanese",
+                    "score": 41123090
+                },
+                {
+                    "word": "sea",
+                    "score": 40248517
+                },
+                {
+                    "word": "shell",
+                    "score": 39881733
+                },
+                {
+                    "word": "delicious",
+                    "score": 39322833
+                },
+                {
+                    "word": "giant",
+                    "score": 38039625
+                },
+                {
+                    "word": "toast",
+                    "score": 36694701
+                },
+                {
+                    "word": "hybrid",
+                    "score": 36655569
+                },
+                {
+                    "word": "raw",
+                    "score": 35088109
+                },
+                {
+                    "word": "sweet",
+                    "score": 34706775
+                },
+                {
+                    "word": "sized",
+                    "score": 34427060
+                }
+            ]
+        },
+        {
+            "keyword": "finishing",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "table",
+                    "score": 45440571
+                },
+                {
+                    "word": "runner",
+                    "score": 42381017
+                },
+                {
+                    "word": "marathon",
+                    "score": 41956737
+                },
+                {
+                    "word": "racing",
+                    "score": 40763052
+                },
+                {
+                    "word": "division",
+                    "score": 39865949
+                },
+                {
+                    "word": "race",
+                    "score": 38600959
+                },
+                {
+                    "word": "season",
+                    "score": 38258790
+                },
+                {
+                    "word": "lap",
+                    "score": 37916157
+                },
+                {
+                    "word": "finish",
+                    "score": 35415480
+                },
+                {
+                    "word": "bottom",
+                    "score": 34950658
+                }
+            ]
+        },
+        {
+            "keyword": "finishing",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "coating",
+                    "score": 41184116
+                },
+                {
+                    "word": "finish",
+                    "score": 35423128
+                }
+            ]
+        },
+        {
+            "keyword": "finishing",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "coating",
+                    "score": 81111995
+                },
+                {
+                    "word": "arrival",
+                    "score": 71670224
+                },
+                {
+                    "word": "last",
+                    "score": 69253726
+                },
+                {
+                    "word": "complete",
+                    "score": 68063191
+                },
+                {
+                    "word": "completion",
+                    "score": 66626074
+                },
+                {
+                    "word": "ending",
+                    "score": 65022145
+                },
+                {
+                    "word": "concluding",
+                    "score": 63273907
+                },
+                {
+                    "word": "finalize",
+                    "score": 57735085
+                },
+                {
+                    "word": "end",
+                    "score": 54570007
+                },
+                {
+                    "word": "follow-through",
+                    "score": 30048064
+                }
+            ]
+        },
+        {
+            "keyword": "finishing",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "furniture",
+                    "score": 52684813
+                },
+                {
+                    "word": "mechanical",
+                    "score": 45411799
+                },
+                {
+                    "word": "industrial",
+                    "score": 43989601
+                },
+                {
+                    "word": "gear",
+                    "score": 43861383
+                },
+                {
+                    "word": "metal",
+                    "score": 42885061
+                },
+                {
+                    "word": "hand",
+                    "score": 39618496
+                },
+                {
+                    "word": "organic",
+                    "score": 39465149
+                },
+                {
+                    "word": "surface",
+                    "score": 39283778
+                },
+                {
+                    "word": "brass",
+                    "score": 37807931
+                },
+                {
+                    "word": "cold",
+                    "score": 36299140
+                }
+            ]
+        },
+        {
+            "keyword": "mixing",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "ingredients",
+                    "score": 55308934
+                },
+                {
+                    "word": "animation",
+                    "score": 45695803
+                },
+                {
+                    "word": "mixer",
+                    "score": 44816138
+                },
+                {
+                    "word": "flour",
+                    "score": 44134959
+                },
+                {
+                    "word": "studio",
+                    "score": 43760156
+                },
+                {
+                    "word": "console",
+                    "score": 43724878
+                },
+                {
+                    "word": "mixture",
+                    "score": 43633655
+                },
+                {
+                    "word": "funk",
+                    "score": 43447700
+                },
+                {
+                    "word": "dough",
+                    "score": 42926631
+                },
+                {
+                    "word": "styles",
+                    "score": 41557715
+                }
+            ]
+        },
+        {
+            "keyword": "mixing",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "mixture",
+                    "score": 43638067
+                },
+                {
+                    "word": "mix",
+                    "score": 36049405
+                },
+                {
+                    "word": "admixture",
+                    "score": 29767776
+                },
+                {
+                    "word": "commixture",
+                    "score": 1022
+                }
+            ]
+        },
+        {
+            "keyword": "mixing",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "mixture",
+                    "score": 83671741
+                },
+                {
+                    "word": "blending",
+                    "score": 71827904
+                },
+                {
+                    "word": "admixture",
+                    "score": 69801450
+                },
+                {
+                    "word": "mingling",
+                    "score": 66106120
+                },
+                {
+                    "word": "blend",
+                    "score": 65389758
+                },
+                {
+                    "word": "commingling",
+                    "score": 64039966
+                },
+                {
+                    "word": "blended",
+                    "score": 63480445
+                },
+                {
+                    "word": "intermingling",
+                    "score": 60200554
+                },
+                {
+                    "word": "intermixing",
+                    "score": 56936614
+                },
+                {
+                    "word": "commixture",
+                    "score": 40039697
+                }
+            ]
+        },
+        {
+            "keyword": "mixing",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "home",
+                    "score": 48645528
+                },
+                {
+                    "word": "mechanical",
+                    "score": 45411799
+                },
+                {
+                    "word": "liquid",
+                    "score": 41211590
+                },
+                {
+                    "word": "plant",
+                    "score": 40465414
+                },
+                {
+                    "word": "hand",
+                    "score": 39618496
+                },
+                {
+                    "word": "chemical",
+                    "score": 39459798
+                },
+                {
+                    "word": "self",
+                    "score": 39045282
+                },
+                {
+                    "word": "race",
+                    "score": 38600540
+                },
+                {
+                    "word": "scale",
+                    "score": 38046170
+                },
+                {
+                    "word": "mat",
+                    "score": 37916976
+                }
+            ]
+        },
+        {
+            "keyword": "all",
+            "relationType": "Triggers",
+            "words": []
+        },
+        {
+            "keyword": "all",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "whole",
+                    "score": 37000230
+                },
+                {
+                    "word": "entirely",
+                    "score": 35491740
+                },
+                {
+                    "word": "completely",
+                    "score": 34559697
+                },
+                {
+                    "word": "totally",
+                    "score": 32863789
+                },
+                {
+                    "word": "altogether",
+                    "score": 30379114
+                },
+                {
+                    "word": "complete",
+                    "score": 28154296
+                },
+                {
+                    "word": "wholly",
+                    "score": 25453458
+                },
+                {
+                    "word": "all of",
+                    "score": 10
+                }
+            ]
+        },
+        {
+            "keyword": "all",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "whole",
+                    "score": 76999284
+                },
+                {
+                    "word": "entirely",
+                    "score": 75490794
+                },
+                {
+                    "word": "completely",
+                    "score": 74558751
+                },
+                {
+                    "word": "each",
+                    "score": 73461369
+                },
+                {
+                    "word": "totally",
+                    "score": 72862843
+                },
+                {
+                    "word": "altogether",
+                    "score": 70378168
+                },
+                {
+                    "word": "complete",
+                    "score": 68153350
+                },
+                {
+                    "word": "wholly",
+                    "score": 65452512
+                },
+                {
+                    "word": "every last",
+                    "score": 40024521
+                },
+                {
+                    "word": "all of",
+                    "score": 40004351
+                }
+            ]
+        },
+        {
+            "keyword": "all",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "bed",
+                    "score": 43532763
+                },
+                {
+                    "word": "world",
+                    "score": 40982876
+                },
+                {
+                    "word": "cell",
+                    "score": 39901762
+                },
+                {
+                    "word": "size",
+                    "score": 37573188
+                },
+                {
+                    "word": "adult",
+                    "score": 35202175
+                },
+                {
+                    "word": "divine",
+                    "score": 34674906
+                },
+                {
+                    "word": "armor",
+                    "score": 34582848
+                },
+                {
+                    "word": "dead",
+                    "score": 34212711
+                },
+                {
+                    "word": "rent",
+                    "score": 34180333
+                },
+                {
+                    "word": "glue",
+                    "score": 34061608
+                }
+            ]
+        },
+        {
+            "keyword": "refrigerating",
+            "relationType": "Triggers",
+            "words": []
+        },
+        {
+            "keyword": "refrigerating",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "cold",
+                    "score": 36348200
+                },
+                {
+                    "word": "refrigerant",
+                    "score": 28154969
+                }
+            ]
+        },
+        {
+            "keyword": "refrigerating",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "cooling",
+                    "score": 41080373
+                },
+                {
+                    "word": "chiller",
+                    "score": 36443639
+                },
+                {
+                    "word": "cold",
+                    "score": 36329566
+                },
+                {
+                    "word": "coolant",
+                    "score": 35115184
+                },
+                {
+                    "word": "freezing",
+                    "score": 30111647
+                },
+                {
+                    "word": "refrigerant",
+                    "score": 28136335
+                },
+                {
+                    "word": "chilled",
+                    "score": 25758946
+                },
+                {
+                    "word": "chilly",
+                    "score": 23702452
+                },
+                {
+                    "word": "chilling",
+                    "score": 20812095
+                },
+                {
+                    "word": "cool",
+                    "score": 9784618
+                }
+            ]
+        },
+        {
+            "keyword": "refrigerating",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "mechanical",
+                    "score": 45411799
+                },
+                {
+                    "word": "small",
+                    "score": 32867186
+                },
+                {
+                    "word": "ton",
+                    "score": 32514907
+                },
+                {
+                    "word": "complete",
+                    "score": 28127245
+                },
+                {
+                    "word": "net",
+                    "score": 26925132
+                },
+                {
+                    "word": "improved",
+                    "score": 24568515
+                },
+                {
+                    "word": "large",
+                    "score": 15687672
+                }
+            ]
+        },
+        {
+            "keyword": "softening",
+            "relationType": "Triggers",
+            "words": []
+        },
+        {
+            "keyword": "softening",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "soft",
+                    "score": 27138072
+                },
+                {
+                    "word": "emollient",
+                    "score": 13508526
+                },
+                {
+                    "word": "demulcent",
+                    "score": 23039
+                },
+                {
+                    "word": "salving",
+                    "score": 1017
+                }
+            ]
+        },
+        {
+            "keyword": "softening",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "soft",
+                    "score": 67128131
+                },
+                {
+                    "word": "relaxing",
+                    "score": 66148630
+                },
+                {
+                    "word": "softness",
+                    "score": 65766051
+                },
+                {
+                    "word": "easing",
+                    "score": 59469142
+                },
+                {
+                    "word": "relieving",
+                    "score": 58056533
+                },
+                {
+                    "word": "alleviation",
+                    "score": 56897358
+                },
+                {
+                    "word": "emollient",
+                    "score": 53498585
+                },
+                {
+                    "word": "allaying",
+                    "score": 52284821
+                },
+                {
+                    "word": "demulcent",
+                    "score": 40041946
+                },
+                {
+                    "word": "salving",
+                    "score": 30042601
+                }
+            ]
+        },
+        {
+            "keyword": "softening",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "plastic",
+                    "score": 41788334
+                },
+                {
+                    "word": "hot",
+                    "score": 36078221
+                },
+                {
+                    "word": "general",
+                    "score": 35801213
+                },
+                {
+                    "word": "lime",
+                    "score": 34868361
+                },
+                {
+                    "word": "local",
+                    "score": 34853298
+                },
+                {
+                    "word": "white",
+                    "score": 34137880
+                },
+                {
+                    "word": "thermal",
+                    "score": 33942735
+                },
+                {
+                    "word": "yellow",
+                    "score": 33735633
+                },
+                {
+                    "word": "ash",
+                    "score": 33159588
+                },
+                {
+                    "word": "gelatinous",
+                    "score": 32965770
+                }
+            ]
+        },
+        {
+            "keyword": "butter",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "cooking",
+                    "score": 81585666
+                },
+                {
+                    "word": "dishes",
+                    "score": 66548764
+                },
+                {
+                    "word": "dish",
+                    "score": 58578315
+                },
+                {
+                    "word": "baking",
+                    "score": 57414525
+                },
+                {
+                    "word": "recipes",
+                    "score": 57198737
+                },
+                {
+                    "word": "soup",
+                    "score": 55882307
+                },
+                {
+                    "word": "foods",
+                    "score": 55484199
+                },
+                {
+                    "word": "ingredients",
+                    "score": 55309087
+                },
+                {
+                    "word": "meal",
+                    "score": 54742849
+                },
+                {
+                    "word": "chicken",
+                    "score": 53616099
+                }
+            ]
+        },
+        {
+            "keyword": "butter",
+            "relationType": "Synonyms",
+            "words": []
+        },
+        {
+            "keyword": "butter",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "cake",
+                    "score": 75969053
+                },
+                {
+                    "word": "bread",
+                    "score": 73796368
+                },
+                {
+                    "word": "cheese",
+                    "score": 71378690
+                },
+                {
+                    "word": "donkey",
+                    "score": 67942062
+                },
+                {
+                    "word": "eat",
+                    "score": 67658074
+                },
+                {
+                    "word": "cream",
+                    "score": 67239671
+                },
+                {
+                    "word": "peanut",
+                    "score": 65043151
+                },
+                {
+                    "word": "resin",
+                    "score": 60805806
+                },
+                {
+                    "word": "oil",
+                    "score": 56526363
+                },
+                {
+                    "word": "butterfat",
+                    "score": 49497397
+                }
+            ]
+        },
+        {
+            "keyword": "butter",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "homemade",
+                    "score": 47952218
+                },
+                {
+                    "word": "heat",
+                    "score": 46047345
+                },
+                {
+                    "word": "bread",
+                    "score": 43746438
+                },
+                {
+                    "word": "liquid",
+                    "score": 41211590
+                },
+                {
+                    "word": "fat",
+                    "score": 40944834
+                },
+                {
+                    "word": "delicious",
+                    "score": 39322833
+                },
+                {
+                    "word": "cocoa",
+                    "score": 38095305
+                },
+                {
+                    "word": "lemon",
+                    "score": 36965187
+                },
+                {
+                    "word": "cold",
+                    "score": 36299140
+                },
+                {
+                    "word": "hot",
+                    "score": 36078221
+                }
+            ]
+        },
+        {
+            "keyword": "powdered",
+            "relationType": "Triggers",
+            "words": []
+        },
+        {
+            "keyword": "powdered",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "fine",
+                    "score": 25330835
+                },
+                {
+                    "word": "powdery",
+                    "score": 23052088
+                },
+                {
+                    "word": "pulverized",
+                    "score": 21548966
+                },
+                {
+                    "word": "fine-grained",
+                    "score": 4021
+                },
+                {
+                    "word": "small-grained",
+                    "score": 8
+                }
+            ]
+        },
+        {
+            "keyword": "powdered",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "gunpowder",
+                    "score": 80058914
+                },
+                {
+                    "word": "dust",
+                    "score": 74219166
+                },
+                {
+                    "word": "dried",
+                    "score": 65589611
+                },
+                {
+                    "word": "fine",
+                    "score": 65334313
+                },
+                {
+                    "word": "powdery",
+                    "score": 63055566
+                },
+                {
+                    "word": "pulverized",
+                    "score": 61552444
+                },
+                {
+                    "word": "sprayed",
+                    "score": 61521168
+                },
+                {
+                    "word": "granular",
+                    "score": 56962167
+                },
+                {
+                    "word": "fine-grained",
+                    "score": 39954093
+                },
+                {
+                    "word": "small-grained",
+                    "score": 30034666
+                }
+            ]
+        },
+        {
+            "keyword": "powdered",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "whole",
+                    "score": 36973179
+                },
+                {
+                    "word": "next",
+                    "score": 35859180
+                },
+                {
+                    "word": "white",
+                    "score": 34137880
+                },
+                {
+                    "word": "dry",
+                    "score": 32608617
+                },
+                {
+                    "word": "little",
+                    "score": 31967705
+                },
+                {
+                    "word": "nutmeg",
+                    "score": 29373346
+                },
+                {
+                    "word": "best",
+                    "score": 28985020
+                },
+                {
+                    "word": "fresh",
+                    "score": 28501316
+                },
+                {
+                    "word": "thick",
+                    "score": 26486512
+                },
+                {
+                    "word": "black",
+                    "score": 25165344
+                }
+            ]
+        },
+        {
+            "keyword": "sifting",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "rice",
+                    "score": 48204478
+                },
+                {
+                    "word": "items",
+                    "score": 46005766
+                },
+                {
+                    "word": "materials",
+                    "score": 44777003
+                },
+                {
+                    "word": "flour",
+                    "score": 44135208
+                },
+                {
+                    "word": "project",
+                    "score": 42147975
+                },
+                {
+                    "word": "garbage",
+                    "score": 41989808
+                },
+                {
+                    "word": "debris",
+                    "score": 40404455
+                },
+                {
+                    "word": "dirt",
+                    "score": 39694610
+                },
+                {
+                    "word": "organic",
+                    "score": 39466032
+                },
+                {
+                    "word": "ideas",
+                    "score": 39245196
+                }
+            ]
+        },
+        {
+            "keyword": "sifting",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "winnowing",
+                    "score": 29498589
+                },
+                {
+                    "word": "winnow",
+                    "score": 14776336
+                }
+            ]
+        },
+        {
+            "keyword": "sifting",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "screen",
+                    "score": 74996044
+                },
+                {
+                    "word": "sieve",
+                    "score": 72585572
+                },
+                {
+                    "word": "sieving",
+                    "score": 72381062
+                },
+                {
+                    "word": "screening",
+                    "score": 71224778
+                },
+                {
+                    "word": "winnowing",
+                    "score": 69406568
+                },
+                {
+                    "word": "examination",
+                    "score": 69042241
+                },
+                {
+                    "word": "winnow",
+                    "score": 54684315
+                },
+                {
+                    "word": "cribration",
+                    "score": 29922475
+                },
+                {
+                    "word": "siftage",
+                    "score": 19922497
+                },
+                {
+                    "word": "sile",
+                    "score": 19922496
+                }
+            ]
+        },
+        {
+            "keyword": "sifting",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "mechanical",
+                    "score": 45411799
+                },
+                {
+                    "word": "scientific",
+                    "score": 39027674
+                },
+                {
+                    "word": "expert",
+                    "score": 38976486
+                },
+                {
+                    "word": "patient",
+                    "score": 37300382
+                },
+                {
+                    "word": "judicial",
+                    "score": 37073901
+                },
+                {
+                    "word": "proper",
+                    "score": 35106346
+                },
+                {
+                    "word": "intellectual",
+                    "score": 33744528
+                },
+                {
+                    "word": "final",
+                    "score": 33251067
+                },
+                {
+                    "word": "intelligent",
+                    "score": 33219649
+                },
+                {
+                    "word": "busy",
+                    "score": 33102506
+                }
+            ]
+        },
+        {
+            "keyword": "flour",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "cooking",
+                    "score": 81585592
+                },
+                {
+                    "word": "dishes",
+                    "score": 66548690
+                },
+                {
+                    "word": "oven",
+                    "score": 64456723
+                },
+                {
+                    "word": "dish",
+                    "score": 58578241
+                },
+                {
+                    "word": "baking",
+                    "score": 57414451
+                },
+                {
+                    "word": "recipes",
+                    "score": 57198663
+                },
+                {
+                    "word": "soup",
+                    "score": 55882233
+                },
+                {
+                    "word": "foods",
+                    "score": 55484125
+                },
+                {
+                    "word": "ingredients",
+                    "score": 55309013
+                },
+                {
+                    "word": "meal",
+                    "score": 54742775
+                }
+            ]
+        },
+        {
+            "keyword": "flour",
+            "relationType": "Synonyms",
+            "words": []
+        },
+        {
+            "keyword": "flour",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "meal",
+                    "score": 74791386
+                },
+                {
+                    "word": "fan",
+                    "score": 60600321
+                },
+                {
+                    "word": "powder",
+                    "score": 60239668
+                },
+                {
+                    "word": "feed",
+                    "score": 56026797
+                },
+                {
+                    "word": "milling",
+                    "score": 53756850
+                },
+                {
+                    "word": "wheat",
+                    "score": 52418261
+                },
+                {
+                    "word": "fluorine",
+                    "score": 49514507
+                },
+                {
+                    "word": "fishmeal",
+                    "score": 47726808
+                },
+                {
+                    "word": "fluoride",
+                    "score": 41860123
+                },
+                {
+                    "word": "bonemeal",
+                    "score": 19972696
+                }
+            ]
+        },
+        {
+            "keyword": "flour",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "rice",
+                    "score": 48203595
+                },
+                {
+                    "word": "bread",
+                    "score": 43746438
+                },
+                {
+                    "word": "fat",
+                    "score": 40944834
+                },
+                {
+                    "word": "wood",
+                    "score": 39703257
+                },
+                {
+                    "word": "corn",
+                    "score": 39644265
+                },
+                {
+                    "word": "pea",
+                    "score": 39581874
+                },
+                {
+                    "word": "purpose",
+                    "score": 37806528
+                },
+                {
+                    "word": "maize",
+                    "score": 37466640
+                },
+                {
+                    "word": "ground",
+                    "score": 37465781
+                },
+                {
+                    "word": "whole",
+                    "score": 36973179
+                }
+            ]
+        },
+        {
+            "keyword": "grinding",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "cooking",
+                    "score": 81585576
+                },
+                {
+                    "word": "cleaning",
+                    "score": 56297243
+                },
+                {
+                    "word": "ingredients",
+                    "score": 55308997
+                },
+                {
+                    "word": "meal",
+                    "score": 54742759
+                },
+                {
+                    "word": "pottery",
+                    "score": 49408825
+                },
+                {
+                    "word": "machines",
+                    "score": 48476042
+                },
+                {
+                    "word": "meat",
+                    "score": 48290349
+                },
+                {
+                    "word": "ceramic",
+                    "score": 48166605
+                },
+                {
+                    "word": "machinery",
+                    "score": 47324126
+                },
+                {
+                    "word": "coffee",
+                    "score": 46901838
+                }
+            ]
+        },
+        {
+            "keyword": "grinding",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "abrasion",
+                    "score": 23839550
+                },
+                {
+                    "word": "attrition",
+                    "score": 21160743
+                },
+                {
+                    "word": "detrition",
+                    "score": 10026
+                }
+            ]
+        },
+        {
+            "keyword": "grinding",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "polishing",
+                    "score": 76934602
+                },
+                {
+                    "word": "milling",
+                    "score": 73747739
+                },
+                {
+                    "word": "moulding",
+                    "score": 69994341
+                },
+                {
+                    "word": "honing",
+                    "score": 68676606
+                },
+                {
+                    "word": "crushing",
+                    "score": 68280104
+                },
+                {
+                    "word": "shredding",
+                    "score": 64881270
+                },
+                {
+                    "word": "squeaking",
+                    "score": 63989083
+                },
+                {
+                    "word": "abrasion",
+                    "score": 63857713
+                },
+                {
+                    "word": "attrition",
+                    "score": 61178906
+                },
+                {
+                    "word": "detrition",
+                    "score": 40037981
+                }
+            ]
+        },
+        {
+            "keyword": "grinding",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "manual",
+                    "score": 49170323
+                },
+                {
+                    "word": "mechanical",
+                    "score": 45411799
+                },
+                {
+                    "word": "corn",
+                    "score": 39644265
+                },
+                {
+                    "word": "hand",
+                    "score": 39618496
+                },
+                {
+                    "word": "circuit",
+                    "score": 38422150
+                },
+                {
+                    "word": "cylindrical",
+                    "score": 38253452
+                },
+                {
+                    "word": "actual",
+                    "score": 36751110
+                },
+                {
+                    "word": "automatic",
+                    "score": 36665081
+                },
+                {
+                    "word": "electrochemical",
+                    "score": 36131878
+                },
+                {
+                    "word": "efficient",
+                    "score": 35785699
+                }
+            ]
+        },
+        {
+            "keyword": "fetch",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "dog",
+                    "score": 50805455
+                },
+                {
+                    "word": "coffee",
+                    "score": 46901769
+                },
+                {
+                    "word": "contents",
+                    "score": 46685576
+                },
+                {
+                    "word": "hardware",
+                    "score": 46479594
+                },
+                {
+                    "word": "items",
+                    "score": 46005511
+                },
+                {
+                    "word": "kids",
+                    "score": 44889910
+                },
+                {
+                    "word": "processor",
+                    "score": 44067793
+                },
+                {
+                    "word": "instruction",
+                    "score": 43515335
+                },
+                {
+                    "word": "server",
+                    "score": 43469701
+                },
+                {
+                    "word": "market",
+                    "score": 42266146
+                }
+            ]
+        },
+        {
+            "keyword": "fetch",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "pull",
+                    "score": 24533855
+                },
+                {
+                    "word": "get",
+                    "score": 24214526
+                },
+                {
+                    "word": "draw",
+                    "score": 20134428
+                },
+                {
+                    "word": "bring",
+                    "score": 19333943
+                },
+                {
+                    "word": "attract",
+                    "score": 13390217
+                },
+                {
+                    "word": "convey",
+                    "score": 12866767
+                },
+                {
+                    "word": "draw in",
+                    "score": 13021
+                },
+                {
+                    "word": "pull in",
+                    "score": 9026
+                },
+                {
+                    "word": "bring in",
+                    "score": 3022
+                }
+            ]
+        },
+        {
+            "keyword": "fetch",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "retrieval",
+                    "score": 75725376
+                },
+                {
+                    "word": "pull",
+                    "score": 64512503
+                },
+                {
+                    "word": "get",
+                    "score": 64193174
+                },
+                {
+                    "word": "draw",
+                    "score": 60113076
+                },
+                {
+                    "word": "bring",
+                    "score": 59312591
+                },
+                {
+                    "word": "attract",
+                    "score": 53368865
+                },
+                {
+                    "word": "convey",
+                    "score": 52845415
+                },
+                {
+                    "word": "bring in",
+                    "score": 40041634
+                },
+                {
+                    "word": "pull in",
+                    "score": 40031853
+                },
+                {
+                    "word": "draw in",
+                    "score": 40029443
+                }
+            ]
+        },
+        {
+            "keyword": "fetch",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "next",
+                    "score": 35859180
+                },
+                {
+                    "word": "previous",
+                    "score": 31660158
+                },
+                {
+                    "word": "last",
+                    "score": 29317780
+                },
+                {
+                    "word": "pre",
+                    "score": 27835490
+                },
+                {
+                    "word": "predictive",
+                    "score": 27587241
+                },
+                {
+                    "word": "subsequent",
+                    "score": 27418950
+                },
+                {
+                    "word": "skinny",
+                    "score": 25989924
+                },
+                {
+                    "word": "first",
+                    "score": 23497492
+                },
+                {
+                    "word": "new",
+                    "score": 21047551
+                },
+                {
+                    "word": "old",
+                    "score": 9980801
+                }
+            ]
+        },
+        {
+            "keyword": "vanilla",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "dish",
+                    "score": 58578344
+                },
+                {
+                    "word": "baking",
+                    "score": 57414554
+                },
+                {
+                    "word": "recipes",
+                    "score": 57198766
+                },
+                {
+                    "word": "foods",
+                    "score": 55484228
+                },
+                {
+                    "word": "ingredients",
+                    "score": 55309116
+                },
+                {
+                    "word": "recipe",
+                    "score": 52691950
+                },
+                {
+                    "word": "cakes",
+                    "score": 51306694
+                },
+                {
+                    "word": "dessert",
+                    "score": 50046686
+                },
+                {
+                    "word": "pastry",
+                    "score": 49266902
+                },
+                {
+                    "word": "rice",
+                    "score": 48204411
+                }
+            ]
+        },
+        {
+            "keyword": "vanilla",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "vanilla extract",
+                    "score": 14
+                }
+            ]
+        },
+        {
+            "keyword": "vanilla",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "beer",
+                    "score": 82059507
+                },
+                {
+                    "word": "herb",
+                    "score": 80530391
+                },
+                {
+                    "word": "original",
+                    "score": 78424734
+                },
+                {
+                    "word": "cream",
+                    "score": 77222779
+                },
+                {
+                    "word": "classic",
+                    "score": 76350706
+                },
+                {
+                    "word": "cracker",
+                    "score": 74099375
+                },
+                {
+                    "word": "conventional",
+                    "score": 73360004
+                },
+                {
+                    "word": "classical",
+                    "score": 72937267
+                },
+                {
+                    "word": "crème",
+                    "score": 63954670
+                },
+                {
+                    "word": "vanilla extract",
+                    "score": 40034039
+                }
+            ]
+        },
+        {
+            "keyword": "vanilla",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "homemade",
+                    "score": 47952218
+                },
+                {
+                    "word": "chocolate",
+                    "score": 46160961
+                },
+                {
+                    "word": "liquid",
+                    "score": 41211590
+                },
+                {
+                    "word": "fat",
+                    "score": 40944834
+                },
+                {
+                    "word": "quality",
+                    "score": 39296126
+                },
+                {
+                    "word": "commercial",
+                    "score": 39152755
+                },
+                {
+                    "word": "standard",
+                    "score": 37245433
+                },
+                {
+                    "word": "lemon",
+                    "score": 36965187
+                },
+                {
+                    "word": "mix",
+                    "score": 36044359
+                },
+                {
+                    "word": "cinnamon",
+                    "score": 35802050
+                }
+            ]
+        },
+        {
+            "keyword": "mix",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "ingredients",
+                    "score": 55308701
+                },
+                {
+                    "word": "programming",
+                    "score": 48843072
+                },
+                {
+                    "word": "dance",
+                    "score": 47856628
+                },
+                {
+                    "word": "homes",
+                    "score": 46121028
+                },
+                {
+                    "word": "mixture",
+                    "score": 43633422
+                },
+                {
+                    "word": "funk",
+                    "score": 43447467
+                },
+                {
+                    "word": "soul",
+                    "score": 42602836
+                },
+                {
+                    "word": "styles",
+                    "score": 41557482
+                },
+                {
+                    "word": "stereo",
+                    "score": 41521559
+                },
+                {
+                    "word": "residential",
+                    "score": 41466506
+                }
+            ]
+        },
+        {
+            "keyword": "mix",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "mixture",
+                    "score": 43691057
+                },
+                {
+                    "word": "mixing",
+                    "score": 40791040
+                },
+                {
+                    "word": "admixture",
+                    "score": 29820766
+                },
+                {
+                    "word": "fuse",
+                    "score": 29465299
+                },
+                {
+                    "word": "shuffle",
+                    "score": 26117681
+                },
+                {
+                    "word": "blend",
+                    "score": 25409074
+                },
+                {
+                    "word": "premix",
+                    "score": 23932420
+                },
+                {
+                    "word": "combine",
+                    "score": 23431833
+                },
+                {
+                    "word": "merge",
+                    "score": 22640816
+                },
+                {
+                    "word": "mingle",
+                    "score": 21226568
+                }
+            ]
+        },
+        {
+            "keyword": "mix",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "mixture",
+                    "score": 83674961
+                },
+                {
+                    "word": "admixture",
+                    "score": 69804670
+                },
+                {
+                    "word": "blend",
+                    "score": 65392978
+                },
+                {
+                    "word": "mingle",
+                    "score": 61210472
+                },
+                {
+                    "word": "commingle",
+                    "score": 58942778
+                },
+                {
+                    "word": "conflate",
+                    "score": 50183847
+                },
+                {
+                    "word": "amalgamate",
+                    "score": 44635490
+                },
+                {
+                    "word": "immix",
+                    "score": 40042941
+                },
+                {
+                    "word": "commix",
+                    "score": 40042922
+                },
+                {
+                    "word": "commixture",
+                    "score": 40042859
+                }
+            ]
+        },
+        {
+            "keyword": "mix",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "industrial",
+                    "score": 43989601
+                },
+                {
+                    "word": "product",
+                    "score": 42121413
+                },
+                {
+                    "word": "mortar",
+                    "score": 40612858
+                },
+                {
+                    "word": "spice",
+                    "score": 38122499
+                },
+                {
+                    "word": "potting",
+                    "score": 37719550
+                },
+                {
+                    "word": "patient",
+                    "score": 37300382
+                },
+                {
+                    "word": "standard",
+                    "score": 37245433
+                },
+                {
+                    "word": "cold",
+                    "score": 36299140
+                },
+                {
+                    "word": "hot",
+                    "score": 36078221
+                },
+                {
+                    "word": "ready",
+                    "score": 35544837
+                }
+            ]
+        },
+        {
+            "keyword": "dough",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "cooking",
+                    "score": 81585720
+                },
+                {
+                    "word": "dishes",
+                    "score": 66548818
+                },
+                {
+                    "word": "oven",
+                    "score": 64456851
+                },
+                {
+                    "word": "dish",
+                    "score": 58578369
+                },
+                {
+                    "word": "baking",
+                    "score": 57414579
+                },
+                {
+                    "word": "recipes",
+                    "score": 57198791
+                },
+                {
+                    "word": "soup",
+                    "score": 55882361
+                },
+                {
+                    "word": "foods",
+                    "score": 55484253
+                },
+                {
+                    "word": "ingredients",
+                    "score": 55309141
+                },
+                {
+                    "word": "chicken",
+                    "score": 53616153
+                }
+            ]
+        },
+        {
+            "keyword": "dough",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "cabbage",
+                    "score": 43864528
+                },
+                {
+                    "word": "bread",
+                    "score": 43757475
+                },
+                {
+                    "word": "kale",
+                    "score": 34402474
+                },
+                {
+                    "word": "loot",
+                    "score": 29230658
+                },
+                {
+                    "word": "shekels",
+                    "score": 24908375
+                },
+                {
+                    "word": "lucre",
+                    "score": 14391254
+                },
+                {
+                    "word": "dinero",
+                    "score": 12075201
+                },
+                {
+                    "word": "moolah",
+                    "score": 11307393
+                },
+                {
+                    "word": "pelf",
+                    "score": 6033
+                },
+                {
+                    "word": "gelt",
+                    "score": 5024
+                }
+            ]
+        },
+        {
+            "keyword": "dough",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "cabbage",
+                    "score": 83903575
+                },
+                {
+                    "word": "bread",
+                    "score": 83796522
+                },
+                {
+                    "word": "kale",
+                    "score": 74441521
+                },
+                {
+                    "word": "loot",
+                    "score": 69269705
+                },
+                {
+                    "word": "shekels",
+                    "score": 64947422
+                },
+                {
+                    "word": "lucre",
+                    "score": 54430301
+                },
+                {
+                    "word": "dinero",
+                    "score": 52114248
+                },
+                {
+                    "word": "moolah",
+                    "score": 51346440
+                },
+                {
+                    "word": "pelf",
+                    "score": 39785993
+                },
+                {
+                    "word": "gelt",
+                    "score": 39763466
+                }
+            ]
+        },
+        {
+            "keyword": "dough",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "cooked",
+                    "score": 50879043
+                },
+                {
+                    "word": "homemade",
+                    "score": 47952218
+                },
+                {
+                    "word": "uncooked",
+                    "score": 44718349
+                },
+                {
+                    "word": "bread",
+                    "score": 43746438
+                },
+                {
+                    "word": "sponge",
+                    "score": 43310707
+                },
+                {
+                    "word": "plastic",
+                    "score": 41788334
+                },
+                {
+                    "word": "cookie",
+                    "score": 39835308
+                },
+                {
+                    "word": "fried",
+                    "score": 39329466
+                },
+                {
+                    "word": "baked",
+                    "score": 36700305
+                },
+                {
+                    "word": "basic",
+                    "score": 36666440
+                }
+            ]
+        },
+        {
+            "keyword": "shaping",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "techniques",
+                    "score": 46396038
+                },
+                {
+                    "word": "tools",
+                    "score": 45130407
+                },
+                {
+                    "word": "tool",
+                    "score": 42300512
+                },
+                {
+                    "word": "politics",
+                    "score": 42157209
+                },
+                {
+                    "word": "culture",
+                    "score": 41618367
+                },
+                {
+                    "word": "behavior",
+                    "score": 40130881
+                },
+                {
+                    "word": "ideas",
+                    "score": 39244704
+                },
+                {
+                    "word": "shapes",
+                    "score": 38877371
+                },
+                {
+                    "word": "noise",
+                    "score": 38618033
+                },
+                {
+                    "word": "attitudes",
+                    "score": 38418705
+                }
+            ]
+        },
+        {
+            "keyword": "shaping",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "formation",
+                    "score": 32224644
+                },
+                {
+                    "word": "defining",
+                    "score": 27688186
+                },
+                {
+                    "word": "formative",
+                    "score": 18488985
+                },
+                {
+                    "word": "constructive",
+                    "score": 18248523
+                }
+            ]
+        },
+        {
+            "keyword": "shaping",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "layout",
+                    "score": 80498481
+                },
+                {
+                    "word": "configuration",
+                    "score": 79817661
+                },
+                {
+                    "word": "composition",
+                    "score": 79266428
+                },
+                {
+                    "word": "formation",
+                    "score": 72212796
+                },
+                {
+                    "word": "form",
+                    "score": 69933406
+                },
+                {
+                    "word": "defining",
+                    "score": 67676338
+                },
+                {
+                    "word": "forming",
+                    "score": 67178236
+                },
+                {
+                    "word": "build",
+                    "score": 64831125
+                },
+                {
+                    "word": "formative",
+                    "score": 58477137
+                },
+                {
+                    "word": "constructive",
+                    "score": 58236675
+                }
+            ]
+        },
+        {
+            "keyword": "shaping",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "culture",
+                    "score": 41617976
+                },
+                {
+                    "word": "world",
+                    "score": 40982876
+                },
+                {
+                    "word": "performance",
+                    "score": 40149117
+                },
+                {
+                    "word": "behavior",
+                    "score": 40130490
+                },
+                {
+                    "word": "social",
+                    "score": 39538460
+                },
+                {
+                    "word": "self",
+                    "score": 39045282
+                },
+                {
+                    "word": "noise",
+                    "score": 38617642
+                },
+                {
+                    "word": "history",
+                    "score": 36593691
+                },
+                {
+                    "word": "hot",
+                    "score": 36078221
+                },
+                {
+                    "word": "path",
+                    "score": 34133682
+                }
+            ]
+        },
+        {
+            "keyword": "balls",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "ball",
+                    "score": 42474343
+                },
+                {
+                    "word": "plastic",
+                    "score": 41788989
+                },
+                {
+                    "word": "pitcher",
+                    "score": 40628292
+                },
+                {
+                    "word": "bowling",
+                    "score": 39566361
+                },
+                {
+                    "word": "golf",
+                    "score": 39073675
+                },
+                {
+                    "word": "batter",
+                    "score": 37826086
+                },
+                {
+                    "word": "juggling",
+                    "score": 37515666
+                },
+                {
+                    "word": "bat",
+                    "score": 36355579
+                },
+                {
+                    "word": "cricket",
+                    "score": 35914208
+                },
+                {
+                    "word": "pool",
+                    "score": 35884025
+                }
+            ]
+        },
+        {
+            "keyword": "balls",
+            "relationType": "Synonyms",
+            "words": []
+        },
+        {
+            "keyword": "balls",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "globe",
+                    "score": 73600569
+                },
+                {
+                    "word": "chunk",
+                    "score": 68523464
+                },
+                {
+                    "word": "clod",
+                    "score": 67992347
+                },
+                {
+                    "word": "glob",
+                    "score": 66370929
+                },
+                {
+                    "word": "testis",
+                    "score": 65467445
+                },
+                {
+                    "word": "orb",
+                    "score": 64698612
+                },
+                {
+                    "word": "lump",
+                    "score": 64160848
+                },
+                {
+                    "word": "clump",
+                    "score": 62300926
+                },
+                {
+                    "word": "bollock",
+                    "score": 60894803
+                },
+                {
+                    "word": "ballock",
+                    "score": 39933806
+                }
+            ]
+        },
+        {
+            "keyword": "balls",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "meat",
+                    "score": 48289652
+                },
+                {
+                    "word": "rice",
+                    "score": 48203595
+                },
+                {
+                    "word": "ceramic",
+                    "score": 48165908
+                },
+                {
+                    "word": "wooden",
+                    "score": 43111940
+                },
+                {
+                    "word": "plastic",
+                    "score": 41788334
+                },
+                {
+                    "word": "dress",
+                    "score": 41274409
+                },
+                {
+                    "word": "cannon",
+                    "score": 40308450
+                },
+                {
+                    "word": "fried",
+                    "score": 39329466
+                },
+                {
+                    "word": "size",
+                    "score": 37573188
+                },
+                {
+                    "word": "musket",
+                    "score": 36938766
+                }
+            ]
+        },
+        {
+            "keyword": "place",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "worship",
+                    "score": 37771118
+                }
+            ]
+        },
+        {
+            "keyword": "place",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "home",
+                    "score": 48702641
+                },
+                {
+                    "word": "space",
+                    "score": 43442585
+                },
+                {
+                    "word": "station",
+                    "score": 43403028
+                },
+                {
+                    "word": "shoes",
+                    "score": 43020133
+                },
+                {
+                    "word": "office",
+                    "score": 40286158
+                },
+                {
+                    "word": "situation",
+                    "score": 38073704
+                },
+                {
+                    "word": "property",
+                    "score": 37533485
+                },
+                {
+                    "word": "range",
+                    "score": 37163847
+                },
+                {
+                    "word": "base",
+                    "score": 35262559
+                },
+                {
+                    "word": "order",
+                    "score": 35090724
+                }
+            ]
+        },
+        {
+            "keyword": "place",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "home",
+                    "score": 88597952
+                },
+                {
+                    "word": "station",
+                    "score": 83298339
+                },
+                {
+                    "word": "range",
+                    "score": 77059158
+                },
+                {
+                    "word": "seat",
+                    "score": 74379133
+                },
+                {
+                    "word": "slot",
+                    "score": 69370281
+                },
+                {
+                    "word": "berth",
+                    "score": 69254964
+                },
+                {
+                    "word": "plaza",
+                    "score": 69112233
+                },
+                {
+                    "word": "stead",
+                    "score": 65700239
+                },
+                {
+                    "word": "send",
+                    "score": 60194532
+                },
+                {
+                    "word": "piazza",
+                    "score": 59893634
+                }
+            ]
+        },
+        {
+            "keyword": "place",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "dwelling",
+                    "score": 44462149
+                },
+                {
+                    "word": "proper",
+                    "score": 35106346
+                },
+                {
+                    "word": "safe",
+                    "score": 34832849
+                },
+                {
+                    "word": "secret",
+                    "score": 34718950
+                },
+                {
+                    "word": "favorite",
+                    "score": 32990769
+                },
+                {
+                    "word": "latter",
+                    "score": 32986461
+                },
+                {
+                    "word": "second",
+                    "score": 32835619
+                },
+                {
+                    "word": "warm",
+                    "score": 32749213
+                },
+                {
+                    "word": "dry",
+                    "score": 32608617
+                },
+                {
+                    "word": "ideal",
+                    "score": 32565576
+                }
+            ]
+        },
+        {
+            "keyword": "cookies",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "oven",
+                    "score": 64456749
+                },
+                {
+                    "word": "baking",
+                    "score": 57414477
+                },
+                {
+                    "word": "recipes",
+                    "score": 57198689
+                },
+                {
+                    "word": "foods",
+                    "score": 55484151
+                },
+                {
+                    "word": "ingredients",
+                    "score": 55309039
+                },
+                {
+                    "word": "meal",
+                    "score": 54742801
+                },
+                {
+                    "word": "bakery",
+                    "score": 53300020
+                },
+                {
+                    "word": "desserts",
+                    "score": 52719520
+                },
+                {
+                    "word": "recipe",
+                    "score": 52691873
+                },
+                {
+                    "word": "eating",
+                    "score": 52659120
+                }
+            ]
+        },
+        {
+            "keyword": "cookies",
+            "relationType": "Synonyms",
+            "words": []
+        },
+        {
+            "keyword": "cookies",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "cakes",
+                    "score": 61356338
+                },
+                {
+                    "word": "biscuits",
+                    "score": 57097813
+                },
+                {
+                    "word": "cake",
+                    "score": 55969583
+                },
+                {
+                    "word": "biscuit",
+                    "score": 53307340
+                },
+                {
+                    "word": "cupcakes",
+                    "score": 52830980
+                },
+                {
+                    "word": "brownies",
+                    "score": 46263907
+                },
+                {
+                    "word": "candies",
+                    "score": 46039968
+                },
+                {
+                    "word": "control",
+                    "score": 45227952
+                },
+                {
+                    "word": "controls",
+                    "score": 44048271
+                },
+                {
+                    "word": "crackers",
+                    "score": 42783412
+                }
+            ]
+        },
+        {
+            "keyword": "cookies",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "homemade",
+                    "score": 47952218
+                },
+                {
+                    "word": "bake",
+                    "score": 41319012
+                },
+                {
+                    "word": "party",
+                    "score": 41044183
+                },
+                {
+                    "word": "fat",
+                    "score": 40944834
+                },
+                {
+                    "word": "chinese",
+                    "score": 40339318
+                },
+                {
+                    "word": "butter",
+                    "score": 40257315
+                },
+                {
+                    "word": "delicious",
+                    "score": 39322833
+                },
+                {
+                    "word": "chip",
+                    "score": 38591181
+                },
+                {
+                    "word": "traditional",
+                    "score": 38469780
+                },
+                {
+                    "word": "side",
+                    "score": 38195954
+                }
+            ]
+        },
+        {
+            "keyword": "sheet",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "music",
+                    "score": 45165845
+                },
+                {
+                    "word": "tube",
+                    "score": 44330249
+                },
+                {
+                    "word": "metal",
+                    "score": 42885531
+                },
+                {
+                    "word": "glass",
+                    "score": 42881766
+                },
+                {
+                    "word": "tin",
+                    "score": 42457060
+                },
+                {
+                    "word": "plate",
+                    "score": 42209777
+                },
+                {
+                    "word": "plastic",
+                    "score": 41788804
+                },
+                {
+                    "word": "steel",
+                    "score": 39860171
+                },
+                {
+                    "word": "ice",
+                    "score": 39338159
+                },
+                {
+                    "word": "wire",
+                    "score": 39317855
+                }
+            ]
+        },
+        {
+            "keyword": "sheet",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "rag",
+                    "score": 38223192
+                },
+                {
+                    "word": "plane",
+                    "score": 35480256
+                },
+                {
+                    "word": "canvas",
+                    "score": 33727695
+                },
+                {
+                    "word": "sail",
+                    "score": 33187232
+                },
+                {
+                    "word": "tabloid",
+                    "score": 31842628
+                },
+                {
+                    "word": "tack",
+                    "score": 28762891
+                },
+                {
+                    "word": "canvass",
+                    "score": 25501840
+                },
+                {
+                    "word": "shroud",
+                    "score": 23356809
+                },
+                {
+                    "word": "bed sheet",
+                    "score": 2012
+                },
+                {
+                    "word": "sheet of paper",
+                    "score": 2010
+                }
+            ]
+        },
+        {
+            "keyword": "sheet",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "rag",
+                    "score": 78216880
+                },
+                {
+                    "word": "plane",
+                    "score": 75473944
+                },
+                {
+                    "word": "canvas",
+                    "score": 73721383
+                },
+                {
+                    "word": "sail",
+                    "score": 73180920
+                },
+                {
+                    "word": "tack",
+                    "score": 68756579
+                },
+                {
+                    "word": "canvass",
+                    "score": 65495528
+                },
+                {
+                    "word": "shroud",
+                    "score": 63350497
+                },
+                {
+                    "word": "bed sheet",
+                    "score": 40045731
+                },
+                {
+                    "word": "mainsheet",
+                    "score": 39976435
+                },
+                {
+                    "word": "piece of paper",
+                    "score": 39954339
+                }
+            ]
+        },
+        {
+            "keyword": "sheet",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "plastic",
+                    "score": 41788334
+                },
+                {
+                    "word": "ice",
+                    "score": 39337689
+                },
+                {
+                    "word": "weekly",
+                    "score": 39249045
+                },
+                {
+                    "word": "clean",
+                    "score": 37971628
+                },
+                {
+                    "word": "daily",
+                    "score": 37700641
+                },
+                {
+                    "word": "size",
+                    "score": 37573188
+                },
+                {
+                    "word": "standard",
+                    "score": 37245433
+                },
+                {
+                    "word": "prepared",
+                    "score": 35734024
+                },
+                {
+                    "word": "bottom",
+                    "score": 34950239
+                },
+                {
+                    "word": "white",
+                    "score": 34137880
+                }
+            ]
+        },
+        {
+            "keyword": "bake",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "kitchen",
+                    "score": 85060747
+                },
+                {
+                    "word": "cooking",
+                    "score": 81585632
+                },
+                {
+                    "word": "dishes",
+                    "score": 66548730
+                },
+                {
+                    "word": "oven",
+                    "score": 64456763
+                },
+                {
+                    "word": "chef",
+                    "score": 63140168
+                },
+                {
+                    "word": "cookery",
+                    "score": 60709194
+                },
+                {
+                    "word": "dish",
+                    "score": 58578281
+                },
+                {
+                    "word": "baking",
+                    "score": 57414491
+                },
+                {
+                    "word": "recipes",
+                    "score": 57198703
+                },
+                {
+                    "word": "foods",
+                    "score": 55484165
+                }
+            ]
+        },
+        {
+            "keyword": "bake",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "baking",
+                    "score": 57415771
+                },
+                {
+                    "word": "broil",
+                    "score": 21014027
+                }
+            ]
+        },
+        {
+            "keyword": "bake",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "cooking",
+                    "score": 121633866
+                },
+                {
+                    "word": "clam",
+                    "score": 82148269
+                },
+                {
+                    "word": "manufacture",
+                    "score": 78478325
+                },
+                {
+                    "word": "cook",
+                    "score": 76309825
+                },
+                {
+                    "word": "boil",
+                    "score": 72793688
+                },
+                {
+                    "word": "fry",
+                    "score": 70319309
+                },
+                {
+                    "word": "crack",
+                    "score": 67003077
+                },
+                {
+                    "word": "marshal",
+                    "score": 61263566
+                },
+                {
+                    "word": "broil",
+                    "score": 61060981
+                },
+                {
+                    "word": "shirr",
+                    "score": 29991545
+                }
+            ]
+        },
+        {
+            "keyword": "bake",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "oven",
+                    "score": 64456010
+                },
+                {
+                    "word": "temperature",
+                    "score": 45399896
+                },
+                {
+                    "word": "porcelain",
+                    "score": 44856468
+                },
+                {
+                    "word": "outdoor",
+                    "score": 43604937
+                },
+                {
+                    "word": "clam",
+                    "score": 42099282
+                },
+                {
+                    "word": "weekly",
+                    "score": 39249045
+                },
+                {
+                    "word": "traditional",
+                    "score": 38469780
+                },
+                {
+                    "word": "daily",
+                    "score": 37700641
+                },
+                {
+                    "word": "hot",
+                    "score": 36078221
+                },
+                {
+                    "word": "lentil",
+                    "score": 35910721
+                }
+            ]
+        },
+        {
+            "keyword": "them",
+            "relationType": "Triggers",
+            "words": []
+        },
+        {
+            "keyword": "them",
+            "relationType": "Synonyms",
+            "words": []
+        },
+        {
+            "keyword": "them",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "home",
+                    "score": 48696053
+                },
+                {
+                    "word": "children",
+                    "score": 42740814
+                },
+                {
+                    "word": "enemy",
+                    "score": 40078923
+                },
+                {
+                    "word": "hem",
+                    "score": 27669591
+                },
+                {
+                    "word": "les",
+                    "score": 23330960
+                },
+                {
+                    "word": "both",
+                    "score": 23322431
+                },
+                {
+                    "word": "him",
+                    "score": 21913892
+                },
+                {
+                    "word": "ces",
+                    "score": 21880215
+                },
+                {
+                    "word": "forgive",
+                    "score": 20808789
+                },
+                {
+                    "word": "elles",
+                    "score": 16889069
+                }
+            ]
+        },
+        {
+            "keyword": "them",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "preparing",
+                    "score": 41880976
+                },
+                {
+                    "word": "parents",
+                    "score": 37550676
+                },
+                {
+                    "word": "classic",
+                    "score": 36317668
+                },
+                {
+                    "word": "personal",
+                    "score": 36069211
+                },
+                {
+                    "word": "novel",
+                    "score": 35732321
+                },
+                {
+                    "word": "prepare",
+                    "score": 35446797
+                },
+                {
+                    "word": "dead",
+                    "score": 34212711
+                },
+                {
+                    "word": "getting",
+                    "score": 33060651
+                },
+                {
+                    "word": "holy",
+                    "score": 32398810
+                },
+                {
+                    "word": "interpreting",
+                    "score": 31272724
+                }
+            ]
+        },
+        {
+            "keyword": "rolling",
+            "relationType": "Triggers",
+            "words": [
+                {
+                    "word": "wheels",
+                    "score": 44874166
+                },
+                {
+                    "word": "trains",
+                    "score": 42706223
+                },
+                {
+                    "word": "magazine",
+                    "score": 40979933
+                },
+                {
+                    "word": "depot",
+                    "score": 38479524
+                },
+                {
+                    "word": "songs",
+                    "score": 38222734
+                },
+                {
+                    "word": "locomotive",
+                    "score": 37548962
+                },
+                {
+                    "word": "mill",
+                    "score": 37156754
+                },
+                {
+                    "word": "hills",
+                    "score": 36998538
+                },
+                {
+                    "word": "terrain",
+                    "score": 36721191
+                },
+                {
+                    "word": "guide",
+                    "score": 36396853
+                }
+            ]
+        },
+        {
+            "keyword": "rolling",
+            "relationType": "Synonyms",
+            "words": [
+                {
+                    "word": "moving",
+                    "score": 35399112
+                },
+                {
+                    "word": "roll",
+                    "score": 35061819
+                },
+                {
+                    "word": "rolled",
+                    "score": 26845327
+                },
+                {
+                    "word": "peal",
+                    "score": 23795154
+                },
+                {
+                    "word": "tumbling",
+                    "score": 23784904
+                },
+                {
+                    "word": "trilled",
+                    "score": 23153926
+                },
+                {
+                    "word": "ringing",
+                    "score": 22848623
+                },
+                {
+                    "word": "pealing",
+                    "score": 22597793
+                },
+                {
+                    "word": "resonant",
+                    "score": 21110208
+                },
+                {
+                    "word": "billowing",
+                    "score": 20346261
+                }
+            ]
+        },
+        {
+            "keyword": "rolling",
+            "relationType": "MeansLike",
+            "words": [
+                {
+                    "word": "moving",
+                    "score": 75241810
+                },
+                {
+                    "word": "peal",
+                    "score": 63637852
+                },
+                {
+                    "word": "tumbling",
+                    "score": 63627602
+                },
+                {
+                    "word": "ringing",
+                    "score": 62691321
+                },
+                {
+                    "word": "pealing",
+                    "score": 62440491
+                },
+                {
+                    "word": "resonant",
+                    "score": 60952906
+                },
+                {
+                    "word": "billowing",
+                    "score": 60188959
+                },
+                {
+                    "word": "reverberant",
+                    "score": 58758117
+                },
+                {
+                    "word": "resounding",
+                    "score": 56863656
+                },
+                {
+                    "word": "wheeling",
+                    "score": 55601356
+                }
+            ]
+        },
+        {
+            "keyword": "rolling",
+            "relationType": "Adjectives",
+            "words": [
+                {
+                    "word": "mechanical",
+                    "score": 45411799
+                },
+                {
+                    "word": "conversational",
+                    "score": 41587605
+                },
+                {
+                    "word": "hand",
+                    "score": 39618496
+                },
+                {
+                    "word": "cold",
+                    "score": 36299140
+                },
+                {
+                    "word": "hot",
+                    "score": 36078221
+                },
+                {
+                    "word": "gentle",
+                    "score": 34102868
+                },
+                {
+                    "word": "pill",
+                    "score": 33970950
+                },
+                {
+                    "word": "conventional",
+                    "score": 33326966
+                },
+                {
+                    "word": "final",
+                    "score": 33251067
+                },
+                {
+                    "word": "warm",
+                    "score": 32749213
+                }
+            ]
+        }
+    ]
+}
