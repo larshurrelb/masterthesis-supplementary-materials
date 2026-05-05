@@ -9,3 +9,6 @@ This repository contains the supplementary materials for the master's thesis "Ma
 - Forms A and B (1 and 2) of the post-condition questionnaire
 - Link to the tables used for results analysis and interview coding
 - Study script
+- UML Diagram
+- TOROS and MDMTV2 Items
+- Code
